@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742887622642",
+    "project_id": "asmapi-bf9e2",
+    "storage_bucket": "asmapi-bf9e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742887622642:android:fc6302aa5501a877b78d6b",
+        "android_client_info": {
+          "package_name": "com.example.asm_api_linhph35049"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdZG9yqGAhPjJd_0iCn8bKrce7V1kTUDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
